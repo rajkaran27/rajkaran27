@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rajkaran
 - 🌱 I’m currently studying Information Technology in Singapore Polytechnic
-- 🏫 Currently learning NodeJS, ReactJS and Java
+- 🏫 Javascript, React Native and Java 
 - 
 
 <!---
