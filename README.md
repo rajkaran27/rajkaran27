@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Rajkaran
 - 🌱 I’m currently studying Information Technology in Singapore Polytechnic
-- 🏫 Javascript, React Native and Java 
-- 
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=rajkaran27.rajkaran27)
 [![Github](https://img.shields.io/github/followers/rajkaran27?label=Follow&style=social)](https://github.com/rajkaran27)
